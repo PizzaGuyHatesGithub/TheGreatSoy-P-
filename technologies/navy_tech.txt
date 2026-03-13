@@ -1115,7 +1115,7 @@ naval_design_bureaus = {
     area = naval_engineering
     year = 1836
     cost = 3600
-    navy_base = { build_time = -10 }
+    navy_base = { build_time = -25 }
     unciv_military = yes
     ai_chance = {
         factor = 0.25
@@ -1201,7 +1201,7 @@ fire_control_systems = {
     year = 1836
     cost = 7200
     unciv_military = yes
-    navy_base = { build_time = -10 }
+    navy_base = { build_time = -25 }
 
     colonial_prestige = 0.1
 
@@ -1299,7 +1299,7 @@ weapon_platforms = {
     year = 1850
     cost = 10800
     unciv_military = yes
-    navy_base = { build_time = -10 }
+    navy_base = { build_time = -25 }
     colonial_prestige = 0.1
 
     ai_chance = {
@@ -1395,7 +1395,7 @@ main_armament = {
     year = 1870
     cost = 14400
     unciv_military = yes
-    navy_base = { build_time = -10 }
+    navy_base = { build_time = -25 }
     colonial_prestige = 0.1
 
     ai_chance = {
@@ -1496,7 +1496,7 @@ advanced_naval_design = {
     year = 1900
     cost = 18000
     unciv_military = yes
-    navy_base = { build_time = -10 }
+    navy_base = { build_time = -25 }
     ai_chance = {
         factor = 0.25
         # Land-locked countries don't research this
@@ -1590,7 +1590,7 @@ modern_naval_design = {
     year = 1919
     cost = 21600
     unciv_military = yes
-    navy_base = { build_time = -10 }
+    navy_base = { build_time = -25 }
     ai_chance = {
         factor = 0.25
         # Land-locked countries don't research this

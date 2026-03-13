@@ -15,19 +15,19 @@ cruiser = {
     priority = 12
     max_strength = 100
     default_organisation = 30
-    maximum_speed = 27
+    maximum_speed = 50
     weighted_value = 8.0
     floating_flag = yes
 
 
     #Building Costs
-    build_time = 240
+    build_time = 160
     build_cost = {
         steamer_convoy = 80     # 5200 | was 30 - 1950
         artillery = 70            # 4200 | was 10 - 600
         canned_food = 30         # 480  | was 12 - 192
         regular_clothes = 30     # 174  | was 10 - 58
-        fuel = 20                # 500  |
+        fuel = 5                # 500  |
     }
     #Total: 10554 | was 2800
     min_port_level = 4

@@ -1,5 +1,9 @@
 capital = 2348
 primary_culture = platinean
+culture = south_andean
+culture = guarani
+culture = brazilian
+culture = aimara
 religion = catholic
 government = presidential_dictatorship
 plurality = 20.0

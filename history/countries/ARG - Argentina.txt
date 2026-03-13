@@ -1,10 +1,14 @@
 capital = 2348
 primary_culture = platinean
+culture = south_andean
+culture = guarani
+culture = brazilian
+culture = aimara
 religion = catholic
 government = presidential_dictatorship
 plurality = 20.0
 nationalvalue = nv_liberty
-literacy = 0.12
+literacy = 0.22
 non_state_culture_literacy = 0.02
 civilized = yes
 prestige = 5
